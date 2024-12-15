@@ -356,7 +356,8 @@ module.exports = {
   *                                                                         *
   ***************************************************************************/
   // port: 80,
-
+  port: process.env.SERVER_PORT || 1444,
+  explicitHost: process.env.SERVER_HOST || 'localhost', 
 
 
   /**************************************************************************
@@ -389,8 +390,8 @@ module.exports = {
   *                                                                         *
   ***************************************************************************/
   custom: {
-    baseUrl: 'https://example.com',
-    internalEmailAddress: 'support@example.com',
+    baseUrl: 'https://codecamp.sozuri.net',
+    internalEmailAddress: 'codecamp.support@sozuri.net',
 
     // sendgridSecret: 'SG.fake.3e0Bn0qSQVnwb1E4qNPz9JZP5vLZYqjh7sn8S93oSHU',
     // stripeSecret: 'sk_prod__fake_Nfgh82401348jaDa3lkZ0d9Hm',

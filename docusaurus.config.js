@@ -9,7 +9,7 @@ const config = {
   title: 'Code Camp',
   tagline: 'Tech Stack Trainning',
   url: 'http://localhost:1444',
-  baseUrl: '/doc4/',
+  baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',

@@ -24,7 +24,7 @@ jobs:
       env:
         PASS_: ${{ secrets.BASH_PASSWORD }}
       run: |
-        cd /home/ubuntu/identiyu_doc
+        cd /home/ubuntu/codecamp
         git stash
         git pull
         npm install

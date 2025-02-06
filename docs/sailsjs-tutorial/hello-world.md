@@ -80,5 +80,8 @@ Open the browser and navigate to `http://localhost:1337`.
 
 The page below loads;
 
+<img src="img/hello_world_sails.png" />
 
+Congratulations! You have successfully run your first Sails.js application.
+Next, we'll cover the structure of a SailsJS application.
 

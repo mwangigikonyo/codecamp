@@ -1,0 +1,34 @@
+on:
+  push:
+    branches: [ "main" ]
+jobs:
+  deploy-package:
+    name: React code deployment
+    runs-on: self-hosted
+    steps:   
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Node.js v17
+      uses: actions/setup-node@v2
+      with:
+        node-version: '17'
+
+    - name: Install pm2 Globally
+      run: npm install pm2  --location=global
+
+    - name: Install dependencies
+      run: npm install
+    
+    - name: Deploy code to live.
+      env:
+        PASS_: ${{ secrets.BASH_PASSWORD }}
+      run: |
+        cd /home/ubuntu/identiyu_doc
+        git stash
+        git pull
+        npm install
+        npm run build
+        npm run start
+
+

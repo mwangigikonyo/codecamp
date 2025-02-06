@@ -22,4 +22,4 @@ This course aims to help you;
 By the time we are done with this course, you will be able to;
 - [ ] Install Sails JS
 - [ ] Create and run a basic, hello-world Sails.js application
-- [ ] Create a food booking platform.  
+- [ ] Project - Napikanga: Create a food booking platform where chefs and foodies will trade. 

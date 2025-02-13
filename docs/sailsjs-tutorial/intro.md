@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Intro
 
-This is a quick course on the  <img src="/img/logo_sails.png" alt="Sails JS Logo" width="50"/>[Sails JS V 1.5](https://sailsjs.com/) MVC framework.
+This is a quick course on the  <img src="/img/logo_sails.png" alt="Sails JS Logo" width="50"/> [Sails JS V 1.5](https://sailsjs.com/) MVC framework.
 
 ## What is an MVC Framework?
 

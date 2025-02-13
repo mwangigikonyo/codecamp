@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # SailsJS Course
 
-This is a zero-to-hero course in SailsJS.
+This is a zero-to-hero course in SailsJS, but requires one to have HTML, JavaScript and CSS basics beforehand.
 
 # Objectives
 This course aims to help you;

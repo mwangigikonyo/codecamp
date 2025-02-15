@@ -9,7 +9,7 @@ This is a zero-to-hero course in SailsJS, but requires one to have HTML, JavaScr
 
 # Objectives
 This course aims to help you;
-- [ ] Understand how Sails JS is a convention-over-convention MVC framework
+- [ ] Understand how Sails JS is a convention-over-configuration MVC framework
 - [ ] Understand the folder structure of a Sails JS application.
 - [ ] Understand how Sails JS Controllers work.
 - [ ] Understand how Sails JS helper methods work.

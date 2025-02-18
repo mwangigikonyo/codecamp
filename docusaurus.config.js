@@ -10,6 +10,14 @@ const config = {
     [
       '@docusaurus/plugin-content-blog',
       {
+        id: 'blog',
+        routeBasePath: 'blog',
+        path: './blog',
+        // ... other options ...
+      },
+    ],[
+      '@docusaurus/plugin-content-blog',
+      {
         id: 'aptitude',
         routeBasePath: 'aptitude',
         path: './aptitude',

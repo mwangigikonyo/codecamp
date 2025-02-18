@@ -1,6 +1,7 @@
 ---
 slug: hello-world
 sidebar_position: 5
+authors: [mwangi_gikonyo]
 ---
 
 # Hello World
@@ -84,4 +85,6 @@ The page below loads;
 
 Congratulations! You have successfully run your first Sails.js application.
 Next, we'll cover the [Structure of a SailsJS application](./sailsjs-application-structure)
+
+This example is available on [GitHub](https://github.com/mwangigikonyo/hello-world.git).
 

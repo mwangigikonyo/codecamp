@@ -1,6 +1,8 @@
 ---
 slug: index
+title: Goals and Objectives
 sidebar_position: 1
+authors: [mwangi_gikonyo]
 ---
 
 # SailsJS Course

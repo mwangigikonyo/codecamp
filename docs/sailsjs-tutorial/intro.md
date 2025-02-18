@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+authors: [mwangi_gikonyo]
 ---
 
 # Intro

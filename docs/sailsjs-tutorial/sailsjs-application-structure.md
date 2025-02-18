@@ -1,6 +1,7 @@
 ---
 slug: sailsjs-application-structure
 sidebar_position: 6
+authors: [mwangi_gikonyo]
 ---
 
 # Sails JS Application Structure
@@ -30,27 +31,27 @@ Below is a high level description of each folder within an empty <img src="/img/
         <tr>
             <td></td>
             <td>./api/controllers</td>
-            <td colspan="2">Houses controller files that handle incoming requests and define application logic.</td>
+            <td colSpan="2">Houses controller files that handle incoming requests and define application logic.</td>
         </tr>
         <tr>
             <td></td>
             <td>./api/models</td>
-            <td colspan="2">Defines the data structures and interactions with the database.</td>
+            <td colSpan="2">Defines the data structures and interactions with the database.</td>
         </tr>
         <tr>
             <td></td>
             <td>./api/policies</td>
-            <td colspan="2">Contains policy files used for authorization and access control.</td>
+            <td colSpan="2">Contains policy files used for authorization and access control.</td>
         </tr>
         <tr>
             <td></td>
             <td>./api/service</td>
-            <td colspan="2">Includes service modules that encapsulate reusable business logic.</td>
+            <td colSpan="2">Includes service modules that encapsulate reusable business logic.</td>
         </tr>
         <tr>
             <td></td>
             <td>./api/helpers</td>
-            <td colspan="2">Stores helper functions that can be used across controllers, models, and views.</td>
+            <td colSpan="2">Stores helper functions that can be used across controllers, models, and views.</td>
         </tr>
         <tr>
             <td>assets</td>

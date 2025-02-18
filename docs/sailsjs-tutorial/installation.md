@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+authors: [mwangi_gikonyo]
 ---
 
 # Installation

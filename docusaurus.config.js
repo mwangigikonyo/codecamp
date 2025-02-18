@@ -6,6 +6,26 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+  plugins: [
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        id: 'aptitude',
+        routeBasePath: 'aptitude',
+        path: './aptitude',
+        // ... other options ...
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        id: 'dev-ops',
+        routeBasePath: 'dev-ops',
+        path: './dev-ops',
+        // ... other options ...
+      },
+    ],
+  ],
   title: 'Code Camp',
   tagline: 'Tech Stack Trainning',
   url: 'http://localhost:1444',
@@ -60,12 +80,12 @@ const config = {
         title: 'Home',
         logo: {
           alt: 'Home',
-          src: 'img/logo.svg',
+          src: 'img/SozuriLogo.png',
         },
         items: [
           {to: '/docs/sailsjs-tutorial/index', label: 'Sails JS Tutorial', position: 'left'},
-          {to: '/blog', label: 'Dev Ops', position: 'left'},
-          {to: '/blog', label: 'Aptitude', position: 'left'},
+          {to: '/dev-ops', label: 'Dev Ops', position: 'left'},
+          {to: '/aptitude', label: 'Aptitude', position: 'left'},
           {
             href: 'https://github.com/mwangigikonyo/codecamp',
             label: 'GitHub',

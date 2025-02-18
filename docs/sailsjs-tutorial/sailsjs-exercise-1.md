@@ -36,6 +36,8 @@ You should now see;
 <img src="./img/sailsjs_exercise_1_output.png" />
 
 
+# What have we learned?
+
 This exercise demonstrates two things;
 - Modifying the index page of the "hello world" example to show the time.
 - We get to understand how to embed javascript code - ``` <%= new Date() %> <b>```
@@ -59,7 +61,7 @@ Additionally, EJS offers other tags for different purposes:
         <code> {'<%# %>'} </code>: Comment tag; content within these tags is not included in the rendered output.
     </li>
     <li>
-        <code> {'<%_ %>'} and {'<% %_>'} </code>: Whitespace-slurping scriptlet tags that remove preceding or trailing whitespace, respectively.
+        <code> {'<%_ %>'}</code> and  <code>{'<% %_>'}</code>: Whitespace-slurping scriptlet tags that remove preceding or trailing whitespace, respectively.
     </li>
 </ul>
 

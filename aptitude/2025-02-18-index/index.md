@@ -25,6 +25,6 @@ You are the one who makes that descision as life demands.
 
 Whatever that list says, this is your point of view and the maintainance work of who you need to be is your effort. The cost of personality is the actions of that personality. You become who you decide to become. You shape yourself at every stage of life.
 
-Once you are aware of what you need to be, then you can write that list down, and make it the earlier list (the one of who you are already). So whowever you are, you have chosen to be. Just become aware that you are chosing and sometimes it's alright to chose different. Show up and become is what another writer wrote. 
+Once you are aware of what you need to be, then you can write that list down, and make it the earlier list (the one of who you are already). So whowever you are, you have chosen to be. Just become aware that you are chosing and sometimes it's alright to chose different. "Show up and become" is what another writer wrote. 
 
 

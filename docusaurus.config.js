@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   plugins: [
-    [
+    /*[
       '@docusaurus/plugin-content-blog',
       {
         id: 'blog',
@@ -15,7 +15,7 @@ const config = {
         path: './blog',
         // ... other options ...
       },
-    ],[
+    ],*/[
       '@docusaurus/plugin-content-blog',
       {
         id: 'aptitude',

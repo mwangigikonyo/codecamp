@@ -6,7 +6,7 @@ tags: [aptitude, trainning]
 ---
 
 # Aptitude Challenge for Commercial Software Engineers
-This is in no way a mandatory read. The suggestions herin are purely suggestive and you can add, modify as you so wish. 
+This is in no way a mandatory course. The suggestions herin are purely suggestive and you can add, modify as you so try out these mindsets. 
 
 However, I believe there's some value that you can derive that can challenge you and encourage you in your work.
 
@@ -51,4 +51,3 @@ If you are the best sales person, ask "what is the best sales person doing right
 Sometimes that thing to do is to take a break. Like meditate. Bask in the sun or go take a swim. Be human too.
 
 Define that "you" and then show up and co-create with one of the best team of engineers around!
-

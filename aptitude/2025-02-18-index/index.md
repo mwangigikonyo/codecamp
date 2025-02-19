@@ -27,4 +27,11 @@ Whatever that list says, this is your point of view and the maintainance work of
 
 Once you are aware of what you need to be, then you can write that list down, and make it the earlier list (the one of who you are already). So whowever you are, you have chosen to be. Just become aware that you are chosing and sometimes it's alright to chose different. "Show up and become" is what another writer wrote. 
 
+If you are the best software engineer around, then constantly ask yourself "What is the best sofware engineer doing right now". Then, do the things the best sofware engineer would do.
+
+If you are the best sales person, ask "what is the best sales person doing right now?", then go ahead and do that, or align to what that best sales person is doing.
+
+Sometimes that thing to do is to take a break. Like meditate. Bask in the sun or go take a swim.
+
+Create that you and then show up and co-create with one of the best team of engineers around!
 

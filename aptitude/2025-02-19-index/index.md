@@ -38,7 +38,7 @@ You shape yourself at every stage of life. The work is to constantly check if yo
 So whowever you are, you have chosen to be whether consciously or not. 
 It is best to be aware of what you're becoming. 
 
-Just become aware that you are chosing and sometimes it's alright to chose different. 
+Just become aware that you are chosing and sometimes it's alright to chose to change your course or becoming. 
 
 Show up as who you want to become, for yourself and the team.
 

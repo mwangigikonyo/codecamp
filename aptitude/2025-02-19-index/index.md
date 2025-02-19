@@ -27,7 +27,7 @@ A week later, revisit the list. Did it change?
 A year later, revisit the list. Did it change?
 Most likely, this list grows and shrinks as you age.
 
-You are the one who makes that descision as life demands you to and as you change yourself to align with your personal goals.
+You are the one who makes that decision as life demands you to and as you change yourself to align with your personal goals.
 
 Whatever that list says, this is your point of view and the maintainance work of who you need to be is your effort. 
 

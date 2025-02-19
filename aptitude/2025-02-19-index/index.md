@@ -1,12 +1,14 @@
 ---
 slug: aptitude
-title: Aptitude
+title: Aptitude Challenge
 authors: [mwangi_gikonyo]
 tags: [aptitude, trainning]
 ---
 
-# Aptitude training for Commercial Software Engineers
-This is in no way a mandatory course. However, I believe there's some value that you can derive from it that can challenge you and encourage you in your work.
+# Aptitude Challenge for Commercial Software Engineers
+This is in no way a mandatory read. The suggestions herin are purely suggestive and you can add, modify as you so wish. 
+
+However, I believe there's some value that you can derive that can challenge you and encourage you in your work.
 
 In this section, I shall suggest the adoption of particular mindsets that can help you thrive in a busy commercial environment.
 

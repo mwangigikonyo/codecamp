@@ -1,10 +1,11 @@
 ---
 slug: sailsjs-exercise-1
+title: "Exercise 1 : First view"
 sidebar_position: 5
 authors: [mwangi_gikonyo]
 ---
 
-# Exercise 1
+# Exercise 1 - Your first View
 
 Copy the [Hello World](./hello-world) example, or clone from [GitHub](https://github.com/mwangigikonyo/hello-world.git).
 
@@ -18,12 +19,6 @@ Replace it with the following;
     </div>
 ```
 
-Then build the project;
-
-```
-npm run build;
-```
-
 Then run the project;
 ```
 npm run start
@@ -31,7 +26,7 @@ npm run start
 
 Then open the browser and navigate to <code>http://localhost:1337</code>;
 
-You should now see;
+You should now see the following;
 
 <img src="./img/sailsjs_exercise_1_output.png" />
 

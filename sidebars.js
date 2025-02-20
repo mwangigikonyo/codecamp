@@ -28,7 +28,9 @@ module.exports = {
         { type: 'doc', id: 'sailsjs-tutorial/hello-world' },
         { type: 'doc', id: 'sailsjs-tutorial/sailsjs-application-structure' },
         { type: 'doc', id: 'sailsjs-tutorial/sailsjs-exercise-1' },
-        { type: 'doc', id: 'sailsjs-tutorial/sailsjs-routing' }
+        { type: 'doc', id: 'sailsjs-tutorial/sailsjs-routing' },
+        { type: 'doc', id: 'sailsjs-tutorial/sailsjs-controller-implicit-route'},
+        { type: 'doc', id: 'sailsjs-tutorial/sailsjs-controller-custom-route'}
         
       ],
     }

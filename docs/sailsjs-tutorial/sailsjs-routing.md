@@ -98,4 +98,4 @@ There are two types of Sails JS routes;
 In the small exercise above, you defined a Custom (Explicit) Route.
 This means, that you define a route yourself, as well as which controller, action, or method it takes the HTTP request to.
 
-In the next section, we'll dive deeper into routing through advancing our "hello world" project. Don't delete it yet.
+In the next section, we'll dive deeper into routing and see which ones are Automatic (Implicit) Routes.

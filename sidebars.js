@@ -28,6 +28,8 @@ module.exports = {
         { type: 'doc', id: 'sailsjs-tutorial/hello-world' },
         { type: 'doc', id: 'sailsjs-tutorial/sailsjs-application-structure' },
         { type: 'doc', id: 'sailsjs-tutorial/sailsjs-exercise-1' },
+        { type: 'doc', id: 'sailsjs-tutorial/sailsjs-routing' }
+        
       ],
     }
   ],

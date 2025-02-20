@@ -87,3 +87,15 @@ Open the browser, and open the link <code>http://localhost:1337/home</code>.
 As you can see, the content of <code>views/pages/homepage.ejs</code> is served by the new route <code>/home</code>;
 
 <img src="img/sailsjs_custom_route_home.png"/>
+
+
+There are two types of Sails JS routes;
+<ol>
+  <li><b>Custom (Explicit) Routes</b>: Manually defined routes that map specific URLs to designated targets, such as controller actions or views.</li>
+  <li><b>Automatic (Implicit) Routes</b>: Routes that Sails.js binds automatically, including blueprint routes and asset routes.</li>
+</ol>
+
+In the small exercise above, you defined a Custom (Explicit) Route.
+This means, that you define a route yourself, as well as which controller, action, or method it takes the HTTP request to.
+
+In the next section, we'll dive deeper into routing through advancing our "hello world" project. Don't delete it yet.

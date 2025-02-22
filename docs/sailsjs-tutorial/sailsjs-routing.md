@@ -62,7 +62,7 @@ Notice <code>'/': { view: 'pages/homepage' },</code> and how the value of 'view'
 
 This gives you a hint that the root route <code>'/'</code> is routed to the (<code>EJS</code>) file - <code>views/pages/homepage.ejs</code>.
 
-Let's change the file so that it looks like this; Basically, remove the code comments in the file. Don't worry, you can always get this documenation back with every new project - helps keep you well informed on the capabilities of the framework;
+Let's change <code>config/routes.js</code> so that it looks like this; Basically, remove the code comments in the file. Don't worry, you can always get this documenation back with every new project - helps keep you well informed on the capabilities of the framework;
 
 
 ```
@@ -95,7 +95,7 @@ There are two types of Sails JS routes;
   <li><b>Automatic (Implicit) Routes</b>: Routes that Sails.js binds automatically, including blueprint routes and asset routes.</li>
 </ol>
 
-In the small exercise above, you defined a Custom (Explicit) Route.
+In the short exercise above, you defined a Custom (Explicit) Route.
 This means, that you define a route yourself, as well as which controller, action, or method it takes the HTTP request to.
 
 In the next section, we'll dive deeper into routing and see which ones are Automatic (Implicit) Routes.

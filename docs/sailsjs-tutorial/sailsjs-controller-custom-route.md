@@ -6,7 +6,7 @@ authors: [mwangi_gikonyo]
 ---
 
 # Controller with Custom Route
-In [Exercise 2](./sailsjs-exercise-3), we saw how to create our first controller and access one if it's actions/methods on the browser via it's implicit/automatic route - <code>http://localhost:1337/calendar/getDate</code>.
+In [Exercise 2](./sailsjs-exercise-2), we saw how to create our first controller and access one if it's actions/methods on the browser via it's implicit/automatic route - <code>http://localhost:1337/calendar/getDate</code>.
 
 In this section, let's disable sails from generating implicit/automatic routes.
 

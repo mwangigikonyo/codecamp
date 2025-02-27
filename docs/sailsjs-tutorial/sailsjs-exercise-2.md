@@ -1,6 +1,6 @@
 ---
 slug: sailsjs-exercise-2
-title: "Controller with Implicit Route"
+title: "Exercise 2: First Controller"
 sidebar_position: 8
 authors: [mwangi_gikonyo]
 ---

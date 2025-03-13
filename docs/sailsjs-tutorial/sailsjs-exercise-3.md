@@ -5,17 +5,18 @@ sidebar_position: 9
 authors: [mwangi_gikonyo]
 ---
 
-Next up, let's spin up an sailsjs api.
+In the [Controllers (Implicit Routes)](/sailsjs-controller-implicit-route) section, we saw the power of Sails.js framework enabled by implicit routes. In this exercise, we shall also observe another super power of Sails.js - generating APIs.
 
-Navigate to the root of our sails application.
 
-The Sails.js framework provides the command <code>>sails generate api <i>api-name</i> </code> that automatically generates
+The Sails.js framework provides the command <code>>sails generate api <i>api-name</i> </code> that automatically generates the basic API components;
 
 - the model
 - controller
 
 
-Imagine you're designing an API (Application Programming Interface) that will list top 5 local music hits.
+In this section, let's spin up an sailsjs api.
+
+Let's design an API (Application Programming Interface) that will list top 5 local music hits of March 2025.
 
 Give it a try;
 

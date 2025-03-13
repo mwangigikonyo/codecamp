@@ -31,8 +31,8 @@ module.exports = {
         { type: 'doc', id: 'sailsjs-tutorial/sailsjs-routing' },
         { type: 'doc', id: 'sailsjs-tutorial/sailsjs-controller-implicit-route'},
         { type: 'doc', id: 'sailsjs-tutorial/sailsjs-exercise-2' },
-        { type: 'doc', id: 'sailsjs-tutorial/sailsjs-controller-custom-route'}
-        
+        { type: 'doc', id: 'sailsjs-tutorial/sailsjs-controller-custom-route'},
+        { type: 'doc', id: 'sailsjs-tutorial/sailsjs-exercise-3'}
       ],
     }
   ],

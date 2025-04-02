@@ -8,7 +8,7 @@ authors: [mwangi_gikonyo]
 In the [Controllers (Implicit Routes)](/sailsjs-controller-implicit-route) section, we saw the power of Sails.js framework enabled by implicit routes. In this exercise, we shall also observe another super power of Sails.js - generating APIs.
 
 
-The Sails.js framework provides the command <code>>sails generate api <i>api-name</i> </code> that automatically generates the basic API components;
+The Sails.js framework provides the command <code>sails generate api <i>api-name</i> </code> that automatically generates the basic API components;
 
 - the model
 - controller
